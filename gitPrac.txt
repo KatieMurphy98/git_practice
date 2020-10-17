@@ -1,2 +1,3 @@
 this is a text file to practice git
 My name is Katie
+I am 22 years old
